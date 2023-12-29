@@ -6,3 +6,4 @@ The drive link contains the following files:
 3.	Video demonstrating the project implementation
 4.	Python notebook for model training
 5.	Zip file containing all the files used in Pycharm for UI integration
+6.	Project Report Diabetic Retinopathy
